@@ -2,19 +2,15 @@
 
 [About](index.md)
 
-[English]()
+[Project](Project/Project.md)
 
-  * [A Thought on English](english/english-formula.md)
-  * [Phonetic Phonics](english/Phonetic-Phonics.md)
-- - - -
-  * # Advanced
-  * [Stress and Syllables](english/stress.md)
+[CollegeLife](CollegeLife/CollegeLife.md)
 
-[Math]()
+[Competition](Competition/Competition.md)
 
-  * [Levy Processes](math/levy_processes.md)
+[Glory](Glory/Glory.md)
 
- [Coding](coding/PythonNote.md)
+[Hobby](Hobby/Hobby.md)
 
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
