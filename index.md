@@ -1,6 +1,8 @@
-# About
+# Chanky
 
 欢迎来到我的个人空间！
+
+![](images/cat.jpg)
 
 ## 个人简介
 
