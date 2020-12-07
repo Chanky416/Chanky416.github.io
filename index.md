@@ -2,9 +2,9 @@
 
 欢迎来到我的个人空间！
 
-![](images/cat.jpg)
-
 ## 个人简介
+
+<img src="images/ckq_white.png" style="zoom:25%;" />
 
 ## 研究兴趣
 
@@ -12,4 +12,4 @@
 
 
 
-Note: 这是一个演示文档。
+Note: 文档还未完成编辑。
